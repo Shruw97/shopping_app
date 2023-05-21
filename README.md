@@ -1,3 +1,1 @@
 # shopping_app
-
-Hello
